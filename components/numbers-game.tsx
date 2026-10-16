@@ -78,6 +78,7 @@ export function NumbersGame() {
           <Target className="size-7 shrink-0" aria-hidden="true" />
           Numbers Game - Track Used
         </h1>
+        <p className="mt-1 text-sm font-medium text-primary/80">Now on GitHub</p>
         <p className="mt-2 text-muted-foreground">Click any number to mark as used</p>
       </header>
 
